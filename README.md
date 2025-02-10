@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm Srinivasulu Reddy  👋
+Hi there, I'm Sudheer Sreeram 👋
 </h3>
 
 <h2 align="center">
