@@ -10,7 +10,7 @@ Hi there, I'm Sudheer Sreeram 👋
 I'm a Software Developer 💻
 </h2>
 
-<p align="center">Full Stack Developer | Web | Mobil | Frontend | Backend</p>
+<p align="center">Full Stack Developer | SQL | JAVA | Frontend | Backend</p>
 
 I like the whole process of developing innovative websites.  When designing my websites, I take care that they are Responsive, Accessible, SEO-Compliant, and High-Performance.
 
@@ -34,9 +34,9 @@ I like the whole process of developing innovative websites.  When designing my w
 <br/><br/>
 
 
-💼 **LinkedIn**: <a title="Srinivas | LinkedIn" href="https://www.linkedin.com/in/imsrinivas/" target="_blank">Srinivas.linkedIn</a><br/>
-🐈‍⬛ **GitHub**: <a title="Srinivas | GitHub" href="#" target="_blank">srinivasulureddy11</a><br/>
-📩 **E-mail**: <a title="Srinivas" href="mailto:bsrinivasulureddy799@gmail.com" target="_blank">bsrinivasulureddy799@gmail.com</a><br/><br/>
+💼 **LinkedIn**: <a title="Sudheer Sreeramulu | LinkedIn" href="https://www.linkedin.com/in/sudheer-sreeram-87a234281/" target="_blank">Sudheer.linkedIn</a><br/>
+🐈‍⬛ **GitHub**: <a title="Sudheer | GitHub" href="#" target="_blank">Sudheer Sreeram</a><br/>
+📩 **E-mail**: <a title="Sudheer" href="mailto:sudheersriram92@gmail.com" target="_blank">sudheersriram92@gmail.com</a><br/><br/>
 
 ### 🎈 My favorite sentence
 
